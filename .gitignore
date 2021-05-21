@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+*.suo
+*VC.db
+*VC.db-shm
+*VC.db-wal
+*VC.opendb
+*sqlite
+*.json
